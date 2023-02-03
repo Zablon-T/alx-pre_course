@@ -1,1 +1,1 @@
-this is another folder inside alx-precourse
+my second readme updated
